@@ -5,7 +5,6 @@ import { getSession } from "@/actions"
 const Navbar = async () => {
   const session = await getSession()
 
-  console.log(session)
   return (
       <nav>
         <Link href="/">Homepage</Link>
