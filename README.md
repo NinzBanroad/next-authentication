@@ -1,3 +1,7 @@
+PROJECT DESCRIPTION:
+
+- This is a simple project using Nextjs for Authentication with iron-session
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
